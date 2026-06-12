@@ -13,8 +13,8 @@
 
 # ================== CONFIG ==================
 $Servers = Get-ExchangeServer | Where-Object {$_.ServerRole -match "Mailbox"} | Select-Object -ExpandProperty Name
-$From    = "Your Sender Email ID"
-$To      = "Your Admin Email ID"
+$From    = "Your_Sender_Email_ID"
+$To      = "Your_Admin_Email_ID"
 $SMTP    = "Your Server Hostname.Domain.com"
 $Subject = "Exchange Health Report - $(Get-Date -Format 'yyyy-MM-dd HH:mm')"
 
