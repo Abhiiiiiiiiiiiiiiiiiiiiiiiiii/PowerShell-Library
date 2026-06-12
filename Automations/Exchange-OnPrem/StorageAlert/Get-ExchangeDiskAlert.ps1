@@ -1,7 +1,7 @@
 # Define parameters
 $smtpServer = "loadbalancer.Domain.com"
-$from = "Your Sender Email ID"
-$to = "Your Admin Email ID"
+$from = "Your_Sender_Email_ID"
+$to = "Your_Admin_Email_ID"
 $subject = "Exchange Server Disk Space Alert"
 $thresholdGB = 140  # Set your desired threshold in gigabytes
 $drive = "C:"     # Specify the drive you want to monitor
