@@ -7,8 +7,8 @@ Import-PSSession $Session -DisableNameChecking
 
 # Email configuration
 $smtpServer = "Your_Server_HostName.Domain.com"
-$smtpFrom = "Your Sender Email ID"
-$smtpTo = "Your Admin Email ID"
+$smtpFrom = "Your_Sender_Email_ID"
+$smtpTo = "Your_Admin_Email_ID"
 $subject = "Exchange Queue Alert"
 $smtpPort = 25
 
