@@ -42,17 +42,15 @@ This automation securely connects to Microsoft Graph and Exchange Online using c
    - Enable auto-expanding archive
    - Apply litigation hold
    - Set calendar permissions (Limited Details)
-6. Log results and optionally send report via email
 
 ---
 
 ## 📊 Output
-- Execution summary (logs or report)
+- Execution summary (logs)
 - Includes:
   - User/UPN
   - Archive Status
   - Litigation Hold Status
-  - Calendar Permission Status
   - Action Result (Success/Failed)
 
 ---
