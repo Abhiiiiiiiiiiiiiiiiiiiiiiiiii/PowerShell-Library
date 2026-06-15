@@ -74,9 +74,9 @@ Before executing the automation, validate the below items:
 
 ### API Permissions
 
-- [ ] Required Graph API permissions added
-- [ ] Admin consent granted
-- [ ] `Exchange.ManageAsApp` permission added if Exchange automation is used
+- [ ] Required Graph API permissions added - 
+- [ ] `Exchange.ManageAsApp` permission
+- [ ]  Admin consent granted
 
 ### Role Assignments
 
