@@ -45,10 +45,8 @@ This automation connects securely to Microsoft Graph using an application with c
 - Device compliance report (CSV/HTML/Table)
 - Includes:
   - Device Name
-  - User Assigned
   - Device ID
   - BitLocker Key Present (Yes/No)
-  - Compliance Status (Compliant / Missing / Unmanaged)
 
 ---
 
