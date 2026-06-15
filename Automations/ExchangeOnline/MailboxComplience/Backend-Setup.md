@@ -56,24 +56,41 @@ Use the below official Microsoft Learn articles while performing backend configu
 
 ---
 
-## Validation Checklist
+## ✅ Validation Checklist
+
 Before executing the automation, validate the below items:
 
- App Registration created
- Client ID copied
- Tenant ID copied
- Certificate created
- .cer uploaded to App Registration
- .pfx uploaded to Automation Account
- Required Graph API permissions added
- Admin consent granted
- Exchange.ManageAsApp permission added if Exchange automation is used
- Exchange Administrator role assigned if required
- Compliance Administrator role assigned if required
- Required modules imported
- Automation variables created
- Runbook created
- Runbook published
- Test authentication completed
- Schedule configured
+### App Registration
 
+- [ ] App Registration created
+- [ ] Client ID copied
+- [ ] Tenant ID copied
+
+### Certificate Configuration
+
+- [ ] Certificate created
+- [ ] `.cer` uploaded to App Registration
+- [ ] `.pfx` uploaded to Automation Account
+
+### API Permissions
+
+- [ ] Required Graph API permissions added
+- [ ] Admin consent granted
+- [ ] `Exchange.ManageAsApp` permission added if Exchange automation is used
+
+### Role Assignments
+
+- [ ] Exchange Administrator role assigned if required
+- [ ] Compliance Administrator role assigned if required
+
+### Azure Automation Setup
+
+- [ ] Required modules imported
+- [ ] Automation variables created
+- [ ] Runbook created
+- [ ] Runbook published
+
+### Final Validation
+
+- [ ] Test authentication completed
+- [ ] Schedule configured
