@@ -85,9 +85,9 @@ Before executing the automation, validate the below items:
 
 ### Azure Automation Setup
 
-- [ ] Required modules imported
-- [ ] Automation variables created
-- [ ] Runbook created
+- [ ] Required modules imported - Exchange Online
+- [ ] Automation variables created - Tenant ID, App ID
+- [ ] Runbook created - RunTime version 5.1
 - [ ] Runbook published
 
 ### Final Validation
