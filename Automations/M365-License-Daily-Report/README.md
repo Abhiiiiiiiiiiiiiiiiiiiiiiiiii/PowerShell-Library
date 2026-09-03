@@ -13,6 +13,11 @@ Manual tracking of M365 license usage is time-consuming and lacks standardizatio
 ## 💡 Solution
 This automation securely connects to Microsoft Graph using an application with Directory.Read.All permission and certificate-based authentication, retrieves license subscription details, translates SKU IDs into friendly license names, and generates a report for easy analysis.
 
+<p align="center">
+  <img src="../../Output%20Screenshots/License%20Automation.jpeg"
+       width="900"
+       alt="M365 License Daily Report">
+</p>
 ---
 
 ## ⚙️ Key Features
