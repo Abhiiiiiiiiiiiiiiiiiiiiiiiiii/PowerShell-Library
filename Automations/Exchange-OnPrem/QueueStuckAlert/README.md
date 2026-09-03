@@ -13,7 +13,11 @@ Mail flow issues caused by stuck or delayed emails in Exchange queues can lead t
 ## 💡 Solution
 This automation continuously checks Exchange mail queues and identifies servers where the number of queued messages exceeds a defined limit. If the threshold is breached, an automated alert email is sent to administrators.
 
-
+<p align="center">
+  <img src="../../Output%20Screenshots/License%20Automation.jpeg"
+       width="900"
+       alt="M365 License Daily Report">
+</p>
 ---
 ## ⚙️ Key Features
 - Monitors queue status across Exchange servers
