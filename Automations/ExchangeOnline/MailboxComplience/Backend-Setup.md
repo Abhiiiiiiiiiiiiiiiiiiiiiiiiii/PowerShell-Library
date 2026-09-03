@@ -80,8 +80,8 @@ Before executing the automation, validate the below items:
 
 ### Role Assignments
 
-- [ ] Exchange Administrator role assigned if required
-- [ ] Compliance Administrator role assigned if required
+- [ ] Exchange Administrator role assigned
+- [ ] Compliance Administrator role assigned
 
 ### Azure Automation Setup
 
