@@ -19,7 +19,7 @@ This automation continuously checks Exchange mail queues and identifies servers 
        alt="Exchange Queue Stuck Alert">
 </p>
 
-
+---
 ## ⚙️ Key Features
 - Monitors queue status across Exchange servers
 - Identifies servers with **queued messages greater than threshold (e.g., 25)**
