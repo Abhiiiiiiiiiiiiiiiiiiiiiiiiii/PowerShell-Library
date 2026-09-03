@@ -12,6 +12,11 @@ Monitoring Exchange server health manually across multiple components is time-co
 
 ## 💡 Solution
 This automation gathers key Exchange server statistics, including queue status, message tracking, disk usage, and service health, and compiles them into a single HTML report for easy analysis and quick decision-making.
+<p align="center">
+  <img src="../../../Output%20Screenshots/Health%20check%20and%20stats.png"
+       width="900"
+       alt="Exchange Server Health and Statistics">
+</p>
 
 ---
 
