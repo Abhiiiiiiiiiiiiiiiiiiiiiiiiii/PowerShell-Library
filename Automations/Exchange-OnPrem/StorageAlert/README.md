@@ -14,6 +14,12 @@ Low disk space on Exchange Servers can lead to performance degradation, service 
 This automation checks available disk space on Exchange servers and compares it against a predefined threshold. If the free space falls below the threshold limit, an alert email is triggered with relevant server and disk details.
 
 ---
+<p align="center">
+  <img src="../../../Output%20Screenshots/Disk%20automation.png"
+       width="900"
+       alt="Exchange Disk Storage Alert">
+</p>
+---
 
 ## ⚙️ Key Features
 - Monitors **disk space usage** on Exchange servers
