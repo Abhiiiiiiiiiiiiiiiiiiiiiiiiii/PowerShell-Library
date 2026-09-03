@@ -14,7 +14,7 @@ Mail flow issues caused by stuck or delayed emails in Exchange queues can lead t
 This automation continuously checks Exchange mail queues and identifies servers where the number of queued messages exceeds a defined limit. If the threshold is breached, an automated alert email is sent to administrators.
 
 <p align="center">
-  <img src="../../../Output%20Screenshots/Healthcheck.png"
+  <img src="https://raw.githubusercontent.com/<your-username>/PowerShell-Library/main/Output%20Screenshots/Healthcheck.png"
        width="900"
        alt="Exchange Queue Stuck Alert">
 </p>
