@@ -88,11 +88,11 @@ Before executing the automation, validate the below items:
 
 - [ ] Required modules imported - Microsoft Graph
 - [ ] Automation variables created - Tenant ID, App ID
-- [ ] Runbook created - Runtime version 5.1 / 7.2 (based on requirement)
+- [ ] Runbook created - Runtime version 7.2 (based on requirement)
 - [ ] Runbook published
 
 ### Final Validation
 
 - [ ] Test authentication completed
 - [ ] Test email sent successfully
-- [ ] Schedule configured (if required)
+- [ ] Schedule it!!
